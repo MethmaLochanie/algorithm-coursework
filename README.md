@@ -4,13 +4,13 @@ In this coursework, you are supposed to check whether a given directed graph is 
 
 For example, for this graph:
 
-![Cyclic Graph](./ss1.png)
+![Cyclic Graph](./assets/ss1.png)
 
 The answer would be **“no”** since there is a cycle `b -> e -> c -> b`.
 
 On the other hand, if the edge between **b** and **c** was reversed:
 
-![Acyclic Graph](./ss2.png)
+![Acyclic Graph](./assets/ss2.png)
 
 The answer would now be **“yes”** since there is no cycle.
 
